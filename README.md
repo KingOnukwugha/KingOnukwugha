@@ -41,9 +41,8 @@ Web development challenges that push boundaries
 
 
 
-"Write simple, build compatible, distribute confidently."
-
-"First, solve the problem. Then, write the code."
+<blockquote>"Write simple, build compatible, distribute confidently."<br>
+"First, solve the problem. Then, write the code."</blockquote>
 
 <!---
 KingOnukwugha/KingOnukwugha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
