@@ -33,9 +33,9 @@ Web development challenges that push boundaries
 
 <h2>📬 Let's Connect</h2>
 <ul>
- <li>📧 Email: aconukwugha0@gmail.com</li>
- <li>💼 LinkedIn: www.linkedin.com/in/alexander-onukwugha-7648a9104</li>
- <li>🐙 GitHub: @KingOnukwugha</li> 
+ <li>📧 Email: <a href="mailto:aconukwugha0@gmail.com">aconukwugha0@gmail.com</li>
+ <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/alexander-onukwugha-7648a9104">@Alexander Onukwugha</a></li>
+ <li>🐙 GitHub: <a href="https://https://github.com/KingOnukwugha">@KingOnukwugha</a></li> 
 </ul>
 
 
