@@ -32,10 +32,14 @@ Web development challenges that push boundaries
   </ul>
 
 <h2>📬 Let's Connect</h2>
+<ul>
+ <li>📧 Email: aconukwugha0@gmail.com</li>
+ <li>💼 LinkedIn: www.linkedin.com/in/alexander-onukwugha-7648a9104</li>
+ <li>🐙 GitHub: @KingOnukwugha</li> 
+</ul>
 
-📧 Email: aconukwugha0@gmail.com
-💼 LinkedIn: www.linkedin.com/in/alexander-onukwugha-7648a9104
-🐙 GitHub: @KingOnukwugha
+
+
 
 "Write simple, build compatible, distribute confidently."
 
